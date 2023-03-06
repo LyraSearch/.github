@@ -1,1 +1,1 @@
-[![Lyra, the edge search experience](/imgs/lyra-banner.png)](https://docs.lyrasearch.io/)
+[![Orama. Search, everywhere](https://github.com/LyraSearch/lyra/raw/main/misc/oramasearch.gif)](https://oramasearch.com)
